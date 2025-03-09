@@ -1,21 +1,21 @@
-Project Name
+🎓 <h3>Project Name</h3>
 
-Description
+📌 Description
 
 This project focuses on managing student data efficiently. It was built using ASP.NET and Arrays. Features include adding, removing, and updating student details.
 
-Features
+✨ Features
 
-Add student details
+📝 Add student details
 
-Remove student details
+❌ Remove student details
 
-Update student information
+🔄 Update student information
 
-Efficient data handling using Arrays
+⚡ Efficient data handling using Arrays
 
-Technologies Used
+🛠 Technologies Used
 
-ASP.NET
+✅ ASP.NET
 
-Arrays
+✅ Arrays
